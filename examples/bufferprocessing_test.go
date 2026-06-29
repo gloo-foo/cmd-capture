@@ -5,8 +5,9 @@ import (
 	"fmt"
 	"strings"
 
-	capture "github.com/gloo-foo/cmd-capture"
 	"github.com/gloo-foo/testable"
+
+	capture "github.com/gloo-foo/cmd-capture"
 )
 
 func ExampleCapture_bufferProcessing() {

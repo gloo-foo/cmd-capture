@@ -4,9 +4,10 @@ import (
 	"bytes"
 	"fmt"
 
-	capture "github.com/gloo-foo/cmd-capture"
 	gloo "github.com/gloo-foo/framework"
 	"github.com/gloo-foo/testable"
+
+	capture "github.com/gloo-foo/cmd-capture"
 )
 
 func ExampleCapture_pipeline() {

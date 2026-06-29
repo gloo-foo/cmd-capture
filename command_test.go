@@ -5,9 +5,10 @@ import (
 	"errors"
 	"testing"
 
-	command "github.com/gloo-foo/cmd-capture"
 	gloo "github.com/gloo-foo/framework"
 	"github.com/gloo-foo/testable"
+
+	command "github.com/gloo-foo/cmd-capture"
 )
 
 // errWrite is the sentinel a failWriter returns once its allowance is spent.

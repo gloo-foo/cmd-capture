@@ -1,5 +1,7 @@
-# cmd-capture
+[![actions](https://github.com/gloo-foo/cmd-capture/actions/workflows/actions.yml/badge.svg)](https://github.com/gloo-foo/cmd-capture/actions/workflows/actions.yml)
+[![ci](https://github.com/gloo-foo/cmd-capture/actions/workflows/ci.yml/badge.svg)](https://github.com/gloo-foo/cmd-capture/actions/workflows/ci.yml)
+[![docs](https://github.com/gloo-foo/cmd-capture/actions/workflows/docs.yml/badge.svg)](https://github.com/gloo-foo/cmd-capture/actions/workflows/docs.yml)
+[![go](https://github.com/gloo-foo/cmd-capture/actions/workflows/go.yml/badge.svg)](https://github.com/gloo-foo/cmd-capture/actions/workflows/go.yml)
+[![release](https://github.com/gloo-foo/cmd-capture/actions/workflows/release.yml/badge.svg)](https://github.com/gloo-foo/cmd-capture/actions/workflows/release.yml)
 
-[![CI](https://github.com/gloo-foo/cmd-capture/actions/workflows/ci.yml/badge.svg)](https://github.com/gloo-foo/cmd-capture/actions/workflows/ci.yml)
-[![Go Reference](https://pkg.go.dev/badge/github.com/gloo-foo/cmd-capture.svg)](https://pkg.go.dev/github.com/gloo-foo/cmd-capture)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[docs](https://gloo-foo.github.io/docs.framework/)
